@@ -1,0 +1,26 @@
+body {
+    background: blanchedalmond
+}
+
+.pageHeader {
+    text-align: center;
+    padding: 25px;
+    text-decoration: underline
+}
+
+.list {
+    display: flex;
+    padding: 25px;
+    align-content: flex-start;
+    flex-wrap: wrap;
+    align-items: stretch;
+    justify-content: space-evenly;
+    text-align: left;
+    line-height: 25px;
+}
+
+.shop {
+    align-content: stretch;
+    width: 30%;
+    border: 1px dotted black;
+}
